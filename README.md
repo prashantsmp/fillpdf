@@ -44,3 +44,5 @@ if __name__ == "__main__":
     generate_pdf_from_data(title="", description="")
 
 ```
+
+### 'date', 'title', 'description' are ids of the template.pdf
